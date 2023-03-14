@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1654381178 source:c:\users\janina\desktop\teme pa\cocei_janina_c.r.1.1b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"capital.h"
+	"greedy.h"
+
+1654380277 c:\users\janina\desktop\teme pa\cocei_janina_c.r.1.1b\capital.h
+
+1654380621 source:c:\users\janina\desktop\teme pa\cocei_janina_c.r.1.1b\capital.c
+	<sys/types.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"capital.h"
+
+1654377766 c:\users\janina\desktop\teme pa\cocei_janina_c.r.1.1b\backtracking.h
+	"capital.h"
+
+1654380423 source:c:\users\janina\desktop\teme pa\cocei_janina_c.r.1.1b\backtracking.c
+	<sys/types.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdbool.h>
+	"backtracking.h"
+	"capital.h"
+
+1654381177 c:\users\janina\desktop\teme pa\cocei_janina_c.r.1.1b\greedy.h
+	"capital.h"
+
+1654433249 source:c:\users\janina\desktop\pa_cocei janina\cocei_janina_c.r.1.1b\capital.c
+	<sys/types.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"capital.h"
+
+1654380277 c:\users\janina\desktop\pa_cocei janina\cocei_janina_c.r.1.1b\capital.h
+
+1654430681 source:c:\users\janina\desktop\pa_cocei janina\cocei_janina_c.r.1.1b\greedy.c
+	<sys/types.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdbool.h>
+	"greedy.h"
+	"capital.h"
+
+1654381177 c:\users\janina\desktop\pa_cocei janina\cocei_janina_c.r.1.1b\greedy.h
+	"capital.h"
+
+1654381178 source:c:\users\janina\desktop\pa_cocei janina\cocei_janina_c.r.1.1b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"capital.h"
+	"greedy.h"
+
